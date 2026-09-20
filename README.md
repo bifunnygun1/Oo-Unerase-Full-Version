@@ -232,4 +232,4 @@ This repository serves as the official landing page for O&O UnErase. The softwar
 **Get the most recent version of O&O UnErase today!**
 
 ---
-**Last updated:** 2026-09-20 14:28:51 UTC
+**Last updated:** 2026-09-20 17:56:21 UTC
